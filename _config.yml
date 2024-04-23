@@ -1,0 +1,16 @@
+title: 'jotavare.github.io'
+description: "Segmentation Fault"
+baseurl: "/"
+url: "https://jotavare.github.io"
+
+header_pages:
+  - index.md
+  - links.md
+
+style: dark
+
+footer: '<a href="https://jotavare.github.io/cv/cv-joao-oliveira.pdf">cv</a> / <a target="_blank" rel="noopener noreferrer" href="mailto:jpoliveira.mm@gmail.com">contact</a> / <a href="https://github.com/jotavare">github</a> / <a href="https://www.linkedin.com/in/jotavare/">linkedin</a>'
+
+# Build settings
+markdown: kramdown
+# theme: jekyll-theme-console
