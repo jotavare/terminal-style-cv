@@ -9,8 +9,11 @@ header_pages:
 
 style: dark
 
-footer: '<a href="https://jotavare.github.io/cv/cv-joao-oliveira.pdf">cv</a> / <a target="_blank" rel="noopener noreferrer" href="mailto:jpoliveira.mm@gmail.com">contact</a> / <a href="https://github.com/jotavare">github</a> / <a href="https://www.linkedin.com/in/jotavare/">linkedin</a>'
+footer: '<a href="https://jotavare.github.io/cv-terminal-style/cv/cv-joao-oliveira.pdf">cv</a> / <a target="_blank" rel="noopener noreferrer" href="mailto:jpoliveira.mm@gmail.com">contact</a> / <a href="https://github.com/jotavare">github</a> / <a href="https://www.linkedin.com/in/jotavare/">linkedin</a>'
 
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-console
+
+plugins:
+  - jekyll-seo-tag
