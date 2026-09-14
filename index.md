@@ -20,4 +20,4 @@ As a professional, I'm recognized for my strong organizational skills, meticulou
 
 Outside of work and study, I enjoy gaming, watching anime and snowboarding. I'm also passionate about 3D printing and gardening, particularly nurturing trees — an activity that brings me closer to nature and provides a peaceful escape from the digital world.
 
-If you are interested to know more, you can check more information in the links bellow.
+If you are interested to know more, you can check more information in the links below.
